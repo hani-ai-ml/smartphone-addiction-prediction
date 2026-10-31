@@ -15,3 +15,10 @@ This project uses Python and machine learning to predict smartphone addiction.
 ## Team member
 
 - Hani Suchak — Roll No. 554
+
+- ## Features
+
+- Data preprocessing
+- Machine-learning prediction
+- Charts and reports
+- Model evaluation
